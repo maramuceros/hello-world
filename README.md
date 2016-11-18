@@ -1,6 +1,11 @@
 # hello-world
-Rock the world
 
-Hi GiftHub,
+#include <stdio.h>
+#include <stdlib.h>
 
-I'm perfectly awesome. Ha ha
+int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+
